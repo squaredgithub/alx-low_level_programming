@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - Lists all the natural numbers below 1024 (excluded) that ate multiples of 3 and 5
+ * main - numbers below 1024 (excluded) that ate multiples of 3 and 5
  * Return: Always 0
 */
 int main(void)
