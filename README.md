@@ -1,0 +1,1 @@
+poitners arrays strrings
