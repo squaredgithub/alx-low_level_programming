@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _memset - fill memory 
+ * _memset - fill memory
  * @s: pointer
  * @b: hexadecimal number
  * @n: n bytes
